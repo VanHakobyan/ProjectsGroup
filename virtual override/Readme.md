@@ -10,8 +10,8 @@
             DiravedClass Dir = new DiravedClass();
             
 ```
-1.[BaseClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/BaseClass.cs]<br>
-2.[DiravedClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/DiravedClass.cs]<br>
+1.[BaseClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/BaseClass.cs)<br>
+2.[DiravedClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/DiravedClass.cs)<br>
 ```c#
             Base.method1();
             Base.method2();
