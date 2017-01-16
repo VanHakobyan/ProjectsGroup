@@ -29,12 +29,18 @@ namespace Vector
 
         public static vector operator +(vector vector1, vector vector2)
         {
-                return new vector(vector1.v1, vector2.v2);
+                return new vector(vector1.v1, vector2.v2);//dubious
            
         }
         public static operator-(vector.v1,vector.v2)
         {
         // not implement
         } 
+        public static operator==(vector vector1, vector vector2)
+        {
+        // not implement
+        }
+       
+       
     }
 }
