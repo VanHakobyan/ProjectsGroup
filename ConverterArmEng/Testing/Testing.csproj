@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36FAAF71-3F2F-4DD2-8574-30D9837EFB16}</ProjectGuid>
+    <ProjectGuid>{A1F1A96C-ACBB-4E72-8554-E622BF798DCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Testing</RootNamespace>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Extension\Extension.csproj">
-      <Project>{b56c5f1b-fe30-4f03-988c-eb3b671bc39c}</Project>
-      <Name>Extension</Name>
+    <ProjectReference Include="..\ConverterArmEng\ConverterArmEng.csproj">
+      <Project>{16aac0b1-5f64-43d4-b590-61fcab53630c}</Project>
+      <Name>ConverterArmEng</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
