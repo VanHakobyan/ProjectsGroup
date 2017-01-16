@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace virtual_override
 {
-    public class DiravedClass : BaseClass
+    public class DerivedClass : BaseClass
     {
         public override void method1()
         {
