@@ -6,12 +6,12 @@
 
 ```c#
             BaseClass Base = new BaseClass();
-            BaseClass BaseDir = new DiravedClass();
-            DiravedClass Dir = new DiravedClass();
+            BaseClass BaseDir = new DeravedClass();
+            DeravedClass Der = new DeravedClass();
             
 ```
 1.[BaseClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/BaseClass.cs)<br>
-2.[DiravedClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/DiravedClass.cs)<br>
+2.[DeravedClass](https://github.com/VanHakobyan/ProjectsGroup/blob/master/virtual%20override/virtual%20override/DiravedClass.cs)<br>
 ```c#
             Base.method1();
             Base.method2();
@@ -30,11 +30,11 @@
 ```
 ![image](https://i.gyazo.com/5fdf570e33fe5c35a98ace90fc836cd5.png)
 ```c#
-            Dir.method1();
-            Dir.method2();
-            Dir.method3();
-            Dir.method4();
-            Dir.method5();
+            Der.method1();
+            Der.method2();
+            Der.method3();
+            Der.method4();
+            Der.method5();
 ```
 ![image](https://i.gyazo.com/d2414668c4b619c03b4db5b22edf7f6f.png)
 
