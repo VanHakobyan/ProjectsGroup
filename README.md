@@ -13,6 +13,3 @@
 *[Extension Methods](https://github.com/VanHakobyan/ProjectsGroup/tree/master/Extension) <br>
 *[ConverterArmEng](https://github.com/VanHakobyan/ProjectsGroup/tree/master/ConverterArmEng) <br>
 *[Smile](https://github.com/VanHakobyan/ProjectsGroup/tree/master/Smile) <br>
-
-
-
