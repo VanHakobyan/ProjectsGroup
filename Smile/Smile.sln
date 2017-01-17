@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmaileMethodExtension", "SmaileMethodExtension\SmaileMethodExtension.csproj", "{2406CD6C-0C9B-409C-A405-9F6274346310}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmileMethodExtension", "SmaileMethodExtension\SmileMethodExtension.csproj", "{2406CD6C-0C9B-409C-A405-9F6274346310}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testingSmile", "testingSmile\testingSmile.csproj", "{067E5D25-B1A7-42F2-A03E-87F6448033BD}"
 EndProject

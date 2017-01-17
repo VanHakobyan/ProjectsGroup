@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SmaileMethodExtension\SmaileMethodExtension.csproj">
+    <ProjectReference Include="..\SmaileMethodExtension\SmileMethodExtension.csproj">
       <Project>{2406cd6c-0c9b-409c-a405-9f6274346310}</Project>
-      <Name>SmaileMethodExtension</Name>
+      <Name>SmileMethodExtension</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
