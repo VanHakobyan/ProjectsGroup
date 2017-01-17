@@ -41,7 +41,7 @@ Console.WriteLine(st5.isSymmetrical());
     <div class="codeSnippetContainerCodeContainer">
         <div class="codeSnippetToolBar">
             <div class="codeSnippetToolBarText">
-                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_e9517883-3f01-461b-9ff3-21b3227a3aa2');" ms.cmptyp="CodeSnippet">Copy</a>
+                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_e9517883-3f01-461b-9ff3-21b3227a3aa2');" ms.cmptyp="CodeSnippet"></a>
             </div>
         </div>
         <div id="CodeSnippetContainerCode_e9517883-3f01-461b-9ff3-21b3227a3aa2" class="codeSnippetContainerCode" dir="ltr">
@@ -69,7 +69,7 @@ Console.WriteLine(st5.isSymmetrical());
     <div class="codeSnippetContainerCodeContainer">
         <div class="codeSnippetToolBar">
             <div class="codeSnippetToolBarText">
-                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_78756d3f-508d-40a8-a312-fb01804823dd');" ms.cmptyp="CodeSnippet">Copy</a>
+                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_78756d3f-508d-40a8-a312-fb01804823dd');" ms.cmptyp="CodeSnippet"></a>
             </div>
         </div>
         <div id="CodeSnippetContainerCode_78756d3f-508d-40a8-a312-fb01804823dd" class="codeSnippetContainerCode" dir="ltr">
@@ -88,7 +88,7 @@ Console.WriteLine(st5.isSymmetrical());
     <div class="codeSnippetContainerCodeContainer">
         <div class="codeSnippetToolBar">
             <div class="codeSnippetToolBarText">
-                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_0e0bc305-1a79-4fc2-920a-73a076f412fc');" ms.cmptyp="CodeSnippet">Copy</a>
+                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_0e0bc305-1a79-4fc2-920a-73a076f412fc');" ms.cmptyp="CodeSnippet"></a>
             </div>
         </div>
         <div id="CodeSnippetContainerCode_0e0bc305-1a79-4fc2-920a-73a076f412fc" class="codeSnippetContainerCode" dir="ltr">
