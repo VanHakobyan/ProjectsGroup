@@ -6,11 +6,18 @@ namespace WorkWithFiles01
     {
         static void Main()
         {
-
-            using (var sw = File.AppendText(@"D:\text.txt"))
+            try
             {
-                sw.WriteLine("Input text text.txt");
+                using (var sw = File.AppendText(@"D:\text.txt"))
+                {
+                    sw.WriteLine("Input text text.txt");
+                }
             }
+            catch (FileNotFoundException ex)
+            {
+                Console.WriteLine(ex.Message); 
+            }
+           
         }
     }
 }
