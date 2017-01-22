@@ -31,7 +31,7 @@
         <mi>x</mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \int _{a}^{b}\!f(x)\,dx}</annotation>
+    <annotation encoding="application/x-tex"></annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4068c79e03c7e4adf85013ac6f11661389523c5" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:10.833ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx"></span></dd>
 </dl>
@@ -53,7 +53,8 @@
             sum += integralFunction(x, degreeFreedomT, degreeFreedomE);
         }
     }
-    sum = (dist / 6) * (integralFunction(start, degreeFreedomT, degreeFreedomE) + integralFunction(end, degreeFreedomT, degreeFreedomE) + 2 * sum + 4 * sumT);
+    sum = (dist / 6) * (integralFunction(start, degreeFreedomT, degreeFreedomE) + 
+    integralFunction(end, degreeFreedomT, degreeFreedomE) + 2 * sum + 4 * sumT);
     return sum;
 }
 
@@ -88,7 +89,7 @@
         <mo>.</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle F(x)=\int f(x)\,dx.}</annotation>
+    <annotation encoding="application/x-tex"></annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d18cda981a68bc3565b1a72eb15c618824f6a045" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.692ex; height:5.843ex;" alt="F(x)=\int f(x)\,dx."></span></dd>
 </dl>
@@ -128,7 +129,7 @@
         <mo>.</mo>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle \int _{a}^{b}\!f(x)\,dx=F(b)-F(a).}</annotation>
+    <annotation encoding="application/x-tex"></annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4adf00a8a26fd6b9d052e81607ea15c2af9d6122" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:26.861ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx=F(b)-F(a)."></span></dd>
 </dl>
