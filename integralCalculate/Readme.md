@@ -31,7 +31,7 @@
         <mi>x</mi>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex"></annotation>
+    
   </semantics>
 </math></span>
 <p align="center">
