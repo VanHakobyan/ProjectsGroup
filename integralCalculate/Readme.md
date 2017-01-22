@@ -50,68 +50,19 @@
 <p>Roughly speaking, the operation of integration is the reverse of differentiation. For this reason, the term <i>integral</i> may also refer to the related notion of the <a href="/wiki/Antiderivative" title="Antiderivative">antiderivative</a>, a function <span class="texhtml mvar" style="font-style:italic;">F</span> whose <a href="/wiki/Derivative" title="Derivative">derivative</a> is the given function <span class="texhtml mvar" style="font-style:italic;">f</span>. In this case, it is called an <i><a href="/wiki/Indefinite_integral" class="mw-redirect" title="Indefinite integral">indefinite integral</a></i> and is written:</p>
 <dl>
 <dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mi>F</mi>
-        <mo stretchy="false">(</mo>
-        <mi>x</mi>
-        <mo stretchy="false">)</mo>
-        <mo>=</mo>
-        <mo>∫<!-- ∫ --></mo>
-        <mi>f</mi>
-        <mo stretchy="false">(</mo>
-        <mi>x</mi>
-        <mo stretchy="false">)</mo>
-        <mspace width="thinmathspace"></mspace>
-        <mi>d</mi>
-        <mi>x</mi>
-        <mo>.</mo>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex"></annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d18cda981a68bc3565b1a72eb15c618824f6a045" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.692ex; height:5.843ex;" alt="F(x)=\int f(x)\,dx."></span></dd>
+  
+</math></span>
+<p align="center">
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d18cda981a68bc3565b1a72eb15c618824f6a045" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:18.692ex; height:5.843ex;" alt="F(x)=\int f(x)\,dx."></p></span></dd>
 </dl>
 <p>The integrals discussed in this article are those termed <i>definite integrals</i>. It is the <a href="/wiki/Fundamental_theorem_of_calculus" title="Fundamental theorem of calculus">fundamental theorem of calculus</a> that connects differentiation with the definite integral: if <span class="texhtml mvar" style="font-style:italic;">f</span> is a continuous real-valued function defined on a <a href="/wiki/Closed_interval" class="mw-redirect" title="Closed interval">closed interval</a> <span class="texhtml">[<i>a</i>, <i>b</i>]</span>, then, once an antiderivative <span class="texhtml mvar" style="font-style:italic;">F</span> of <span class="texhtml mvar" style="font-style:italic;">f</span> is known, the definite integral of <span class="texhtml mvar" style="font-style:italic;">f</span> over that interval is given by</p>
 <dl>
 <dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msubsup>
-          <mo>∫<!-- ∫ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>a</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>b</mi>
-          </mrow>
-        </msubsup>
-        <mspace width="negativethinmathspace"></mspace>
-        <mi>f</mi>
-        <mo stretchy="false">(</mo>
-        <mi>x</mi>
-        <mo stretchy="false">)</mo>
-        <mspace width="thinmathspace"></mspace>
-        <mi>d</mi>
-        <mi>x</mi>
-        <mo>=</mo>
-        <mi>F</mi>
-        <mo stretchy="false">(</mo>
-        <mi>b</mi>
-        <mo stretchy="false">)</mo>
-        <mo>−<!-- − --></mo>
-        <mi>F</mi>
-        <mo stretchy="false">(</mo>
-        <mi>a</mi>
-        <mo stretchy="false">)</mo>
-        <mo>.</mo>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex"></annotation>
-  </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4adf00a8a26fd6b9d052e81607ea15c2af9d6122" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:26.861ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx=F(b)-F(a)."></span></dd>
+ 
+ 
+</math></span>
+<p align="center">
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4adf00a8a26fd6b9d052e81607ea15c2af9d6122" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:26.861ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx=F(b)-F(a)."></p></span></dd>
 </dl>
 
 
