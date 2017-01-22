@@ -33,7 +33,10 @@
     </mrow>
     <annotation encoding="application/x-tex"></annotation>
   </semantics>
-</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4068c79e03c7e4adf85013ac6f11661389523c5" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:10.833ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx"></span></dd>
+</math></span>
+<p align="center">
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4068c79e03c7e4adf85013ac6f11661389523c5" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:10.833ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx">
+</p></span></dd>
 </dl>
 <p>is defined informally as the signed <a href="/wiki/Area_(geometry)" class="mw-redirect" title="Area (geometry)">area</a> of the region in the <span class="texhtml mvar" style="font-style:italic;">xy</span>-plane that is bounded by the <a href="/wiki/Graph_of_a_function" title="Graph of a function">graph</a> of <span class="texhtml mvar" style="font-style:italic;">f</span>, the <span class="texhtml mvar" style="font-style:italic;">x</span>-axis and the vertical lines <span class="texhtml"><i>x</i> = <i>a</i></span> and <span class="texhtml"><i>x</i> = <i>b</i></span>. The area above the <span class="texhtml mvar" style="font-style:italic;">x</span>-axis adds to the total and that below the <span class="texhtml mvar" style="font-style:italic;">x</span>-axis subtracts from the total.</p>
 
