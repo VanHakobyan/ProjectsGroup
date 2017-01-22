@@ -16,4 +16,5 @@
 6.[EnglishArm To ArmeninArm translator ](https://github.com/VanHakobyan/ProjectsGroup/tree/master/EnglishArmToArmeninArm) <br>
 7.[Working With Files](https://github.com/VanHakobyan/ProjectsGroup/tree/master/WorkWithFiles) <br>
 8.[Stack OverFlow Exception(Does not work finlly)](https://github.com/VanHakobyan/ProjectsGroup/new/master/stackOverFlowException) <br>
-9.[Integral Calculator )](https://github.com/VanHakobyan/ProjectsGroup/tree/master/integralCalculate) <br>
+9.[Integral Calculator](https://github.com/VanHakobyan/ProjectsGroup/tree/master/integralCalculate) <br>
+10.[Calculator Using Delegates](https://github.com/VanHakobyan/ProjectsGroup/tree/master/calculatorUsingDelegates) <br>
