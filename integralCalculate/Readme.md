@@ -9,30 +9,7 @@
 <p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, an <b>integral</b> assigns numbers to functions in a way that can describe displacement, area, volume, and other concepts that arise by combining infinitesimal data. Integration is one of the two main operations of <a href="/wiki/Calculus" title="Calculus">calculus</a>, with its inverse, <a href="/wiki/Derivative" title="Derivative">differentiation</a>, being the other. Given a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> <span class="texhtml mvar" style="font-style:italic;">f</span> of a <a href="/wiki/Real_number" title="Real number">real</a> <a href="/wiki/Variable_(mathematics)" title="Variable (mathematics)">variable</a> <span class="texhtml mvar" style="font-style:italic;">x</span> and an <a href="/wiki/Interval_(mathematics)" title="Interval (mathematics)">interval</a> <span class="texhtml">[<i>a</i>, <i>b</i>]</span> of the <a href="/wiki/Real_line" title="Real line">real line</a>, the <b>definite integral</b></p>
 <dl>
 <dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y mw-math-element" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <msubsup>
-          <mo>∫<!-- ∫ --></mo>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>a</mi>
-          </mrow>
-          <mrow class="MJX-TeXAtom-ORD">
-            <mi>b</mi>
-          </mrow>
-        </msubsup>
-        <mspace width="negativethinmathspace"></mspace>
-        <mi>f</mi>
-        <mo stretchy="false">(</mo>
-        <mi>x</mi>
-        <mo stretchy="false">)</mo>
-        <mspace width="thinmathspace"></mspace>
-        <mi>d</mi>
-        <mi>x</mi>
-      </mstyle>
-    </mrow>
-    
-  </semantics>
+ 
 </math></span>
 <p align="center">
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4068c79e03c7e4adf85013ac6f11661389523c5" class="mwe-math-fallback-image-inline mw-math-element" aria-hidden="true" style="vertical-align: -2.338ex; width:10.833ex; height:6.343ex;" alt="\int _{a}^{b}\!f(x)\,dx">
