@@ -29,7 +29,7 @@ Console.WriteLine(st4.isSymmetrical());//true
 Console.WriteLine(st5.isSymmetrical());
 ```
 ### About palindrome
-<p>A <b>palindrome</b> is a word, phrase, <a href="/wiki/Palindromic_number" title="Palindromic number">number</a>, or other sequence of <a href="/wiki/Character_(symbol)" title="Character (symbol)">characters</a> which reads the same backward or forward, such as <i>madam</i> or <i>kayak</i>. Sentence-length palindromes may be written when allowances are made for adjustments to capital letters, punctuation, and word dividers, such as "A man, a plan, a canal, Panama!", "Was it a car or a cat I saw?" or "No 'x' in Nixon".</p>
+<p>A <b>palindrome</b> is a word, phrase, <a href="https://en.wikipedia.org/wiki/Palindromic_number" title="Palindromic number">number</a>, or other sequence of <a href="https://en.wikipedia.org/wiki/Character_(symbol)" title="Character (symbol)">characters</a> which reads the same backward or forward, such as <i>madam</i> or <i>kayak</i>. Sentence-length palindromes may be written when allowances are made for adjustments to capital letters, punctuation, and word dividers, such as "A man, a plan, a canal, Panama!", "Was it a car or a cat I saw?" or "No 'x' in Nixon".</p>
 
 ### About Extension methods
 
