@@ -18,7 +18,7 @@ namespace Testing
             Base.method4();
             Base.method5();
 
-            Console.WriteLine(new string('-', 20));
+            Console.WriteLine(new string('-', 25));
             Console.ForegroundColor = ConsoleColor.Red;
 
             BaseDer.method1();
@@ -27,7 +27,7 @@ namespace Testing
             BaseDer.method4();
             BaseDer.method5();
 
-            Console.WriteLine(new string('-', 20));
+            Console.WriteLine(new string('-', 25));
             Console.ForegroundColor = ConsoleColor.Green;
 
             Der.method1();

@@ -7,14 +7,14 @@ namespace WorkWithFiles02
         static void Main(string[] args)
         {
             // Create file
-            FileStream file = File.Create(@"D:\textNew.txt");
+            FileStream file = File.Create(@"D:\textNewText.txt");
 
             var writer = new BinaryWriter(file);
 
             // Write in different data file.
             long number = 1000;
             int[] num = new int[number];
-            string st = "funy c#";
+            string st = "Funy c#";
 
             writer.Write(number);
             writer.Write(st);
