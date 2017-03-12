@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Extensin02\Extension02.csproj">
+      <Project>{0de97688-d980-4f7b-8ab0-300a82b6b72a}</Project>
+      <Name>Extension02</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Extension\Extension01.csproj">
       <Project>{b56c5f1b-fe30-4f03-988c-eb3b671bc39c}</Project>
       <Name>Extension01</Name>

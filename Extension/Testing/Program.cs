@@ -1,5 +1,6 @@
 ﻿using System;
 using Extension01;
+using Extension02;
 namespace Testing
 {
     class Program
@@ -16,7 +17,7 @@ namespace Testing
             Console.WriteLine(st3.isSymmetrical());//true
             Console.WriteLine(st4.isSymmetrical());//true
             Console.WriteLine(st5.isSymmetrical());
-
+            Console.WriteLine(st1.reversing());
         }
     }
 }

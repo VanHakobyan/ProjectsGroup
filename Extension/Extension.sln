@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension01", "Extension\Extension01.csproj", "{B56C5F1B-FE30-4F03-988C-EB3B671BC39C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensin02", "Extensin02\Extensin02.csproj", "{0DE97688-D980-4F7B-8AB0-300A82B6B72A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension02", "Extensin02\Extension02.csproj", "{0DE97688-D980-4F7B-8AB0-300A82B6B72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
