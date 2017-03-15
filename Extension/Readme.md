@@ -42,32 +42,27 @@ Console.WriteLine(st5.isSymmetrical());
 <p>
 </p><div id="code-snippet-2" class="codeSnippetContainer" xmlns="">
     <div class="codeSnippetContainerTabs">
-        <div class="codeSnippetContainerTabSingle" dir="ltr"><a>C#</a></div>
-    </div>
-    <div class="codeSnippetContainerCodeContainer">
-        <div class="codeSnippetToolBar">
-            <div class="codeSnippetToolBarText">
-                <a name="CodeSnippetCopyLink" style="display: none;" title="Copy to clipboard." href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_e9517883-3f01-461b-9ff3-21b3227a3aa2');" ms.cmptyp="CodeSnippet"></a>
-            </div>
-        </div>
-        <div id="CodeSnippetContainerCode_e9517883-3f01-461b-9ff3-21b3227a3aa2" class="codeSnippetContainerCode" dir="ltr">
-            <div style="color:Black;"><pre><span style="color:Blue;">namespace</span> ExtensionMethods
+        <div class="codeSnippetContainerTabSingle" dir="ltr"><a>
+     
+        ``` C#
+
+namespace ExtensionMethods
 {
-    <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> <span style="color:Blue;">class</span> MyExtensions
+    public static class MyExtensions
     {
-        <span style="color:Blue;">public</span> <span style="color:Blue;">static</span> <span style="color:Blue;">int</span> WordCount(<span style="color:Blue;">this</span> String str)
+        public static int WordCount(this String str)
         {
-            <span style="color:Blue;">return</span> str.Split(<span style="color:Blue;">new</span> <span style="color:Blue;">char</span>[] { <span style="color:#A31515;">' '</span>, <span style="color:#A31515;">'.'</span>, <span style="color:#A31515;">'?'</span> }, 
+            return str.Split(new char[] { ' ', '.', '?' }, 
                              StringSplitOptions.RemoveEmptyEntries).Length;
         }
     }   
 }
-</pre></div>
-            
-        </div>
-    </div>
-</div>
-<p></p><p>The <code>WordCount</code> extension method can be brought into scope with this <code>using</code> directive:</p>
+```
+        
+        
+        
+        
+        <p>The <code>WordCount</code> extension method can be brought into scope with this <code>using</code> directive:</p>
 <div id="code-snippet-3" class="codeSnippetContainer" xmlns="">
     <div class="codeSnippetContainerTabs">
         
