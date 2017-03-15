@@ -37,7 +37,9 @@ Console.WriteLine(st5.isSymmetrical());
 
 ### About Extension methods
 
-<p></p><p>Extension methods are defined as static methods but are called by using instance method syntax. Their first parameter specifies which type the method operates on, and the parameter is preceded by the <a href="https://msdn.microsoft.com/en-us/library/dk1507sz.aspx">this</a> modifier. Extension methods are only in scope when you explicitly import the namespace into your source code with a <code>using</code> directive.</p><p>The following example shows an extension method defined for the <a href="https://msdn.microsoft.com/en-us/library/system.string.aspx">System.String</a> class. Note that it is defined inside a non-nested, non-generic static class:</p><p>
+<p></p><p>Extension methods are defined as static methods but are called by using instance method syntax. Their first parameter specifies which type the method operates on, and the parameter is preceded by the <a href="https://msdn.microsoft.com/en-us/library/dk1507sz.aspx">this</a> modifier. Extension methods are only in scope when you explicitly import the namespace into your source code with a <code>using</code> directive.</p><p>The following example shows an extension method defined for the <a href="https://msdn.microsoft.com/en-us/library/system.string.aspx">System.String</a> class. Note that it is defined inside a non-nested, non-generic static class:</p>
+<br>
+<p>
 </p><div id="code-snippet-2" class="codeSnippetContainer" xmlns="">
     <div class="codeSnippetContainerTabs">
         <div class="codeSnippetContainerTabSingle" dir="ltr"><a>C#</a></div>
