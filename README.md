@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-* [Virtual and abstract method overriding](https://github.com/VanHakobyan/ProjectsGroup/tree/master/virtual%20override) <br>
+1. [Virtual and abstract method overriding](https://github.com/VanHakobyan/ProjectsGroup/tree/master/virtual%20override) <br>
 2.  [Vector addition overloading](https://github.com/VanHakobyan/ProjectsGroup/tree/master/Vector) <br>
 3.  [Extension Methods](https://github.com/VanHakobyan/ProjectsGroup/tree/master/Extension) <br>
 4.  [Converter Armenin to English cover KDWin](https://github.com/VanHakobyan/ProjectsGroup/tree/master/ConverterArmEng) <br>
@@ -17,4 +17,4 @@
 7.  [Working With Files](https://github.com/VanHakobyan/ProjectsGroup/tree/master/WorkWithFiles) <br>
 8.  [Stack OverFlow Exception(Does not work finlly)](https://github.com/VanHakobyan/ProjectsGroup/tree/master/stackOverFlowException) <br>
 9.  [Integral Calculator](https://github.com/VanHakobyan/ProjectsGroup/tree/master/integralCalculate) <br>
-* [Calculator Using Delegates](https://github.com/VanHakobyan/ProjectsGroup/tree/master/calculatorUsingDelegates) <br>
+10. [Calculator Using Delegates](https://github.com/VanHakobyan/ProjectsGroup/tree/master/calculatorUsingDelegates) <br>
