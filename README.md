@@ -2,7 +2,7 @@
 
 ## :file_folder:C# 6.0 .NET Framework 4.6 :book:
 
-<p align="center">
+<p align="middle">
 <img src="https://kwork.ru/pics/t3/58/33029-1.jpg">
 </p>
 <br>
